@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+/.idea
+
+# Build
+/public
+/resources
+
+# Hugo
+/hugo
+/hugo.exe
+/.hugo_build.lock
