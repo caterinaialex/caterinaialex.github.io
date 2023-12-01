@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.LanguageCode }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex,nofollow">
+
+    <!-- Page Title -->
+    {{ $title := print .Title " | " .Site.Title  }}
+    {{ if .IsHome }}
+        {{ $title = .Site.Title }}
+    {{ else if eq .Page.RelPermalink "/404.html" }}
+        {{ $title = print "Page Not Found | " .Site.Title }}
+    {{ end }}
+    <title>{{ $title }}</title>
+
+    <!-- Stylesheets -->
+    {{ with resources.Get "app.scss" | toCSS | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+</head>
+<body>
+    <!-- Header -->
+    {{ partial "header.html" . }}
+
+    <!-- Page contents -->
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+</body>
+</html>

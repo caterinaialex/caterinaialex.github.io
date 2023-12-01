@@ -1,0 +1,35 @@
+# Localization
+defaultContentLanguage: ca
+defaultContentLanguageInSubdir: true
+languages:
+  ca:
+    disabled: false
+    languageCode: ca
+    languageDirection: ltr
+    languageName: Català
+    title: Caterina i Alex
+    weight: 1
+  en:
+    disabled: false
+    languageCode: en
+    languageDirection: ltr
+    languageName: English
+    title: CATEX
+    weight: 2
+
+# Disable unused kinds
+disableKinds:
+  - RSS
+  - sitemap
+  - taxonomy
+
+# Minification
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepQuotes: true
+      keepWhitespace: false
+
+# Miscellaneous
+disableHugoGeneratorInject: true
