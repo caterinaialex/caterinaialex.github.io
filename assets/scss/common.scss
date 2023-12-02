@@ -17,11 +17,14 @@ header {
     }
 
     .navbar-main .nav-link {
-        margin-top: 0.4rem;
-        margin-bottom: 0.4rem;
-        padding-top: 0.1rem;
-        padding-bottom: 0.1rem;
+        margin: 0.4rem 0.8rem;
+        padding: 0 0.1rem !important;
         border-bottom: solid 1px transparent;
+
+        @include media-breakpoint-down(lg) {
+            margin-left: 0;
+            margin-right: 0;
+        }
 
         &.active {
             color: $primary-color;
