@@ -2,10 +2,35 @@ body {
     background: $background-color;
 }
 
-main {
-    min-height: calc(100vh - 9.8rem);
-}
-
 .container-fluid {
     max-width: 1000px;
+}
+
+main {
+    overflow: hidden;
+    min-height: calc(100vh - 9.8rem);
+    font-size: 1.1rem;
+
+    @include media-breakpoint-down(lg) {
+        font-size: 1rem;
+    }
+
+    & > .container-fluid {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    h1 {
+        margin: 2rem 0 1rem 0;
+        font-size: 2.2em;
+    }
+
+    h2 {
+        margin: 2rem 0 0.6rem 0;
+        font-size: 1.6em;
+    }
+
+    p {
+        line-height: 1.7;
+    }
 }

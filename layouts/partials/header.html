@@ -14,7 +14,7 @@
                             {{ with .Children }}
                                 <li class="nav-item dropdown">
                                     {{ $activeClass := "" }}
-                                    {{ if $.HasMenuCurrent $item.Menu $item }}
+                                    {{ if or ($.HasMenuCurrent $item.Menu $item) ($.IsMenuCurrent $item.Menu $item) }}
                                         {{ $activeClass = " active" }}
                                     {{ end }}
                                     <a class="nav-link dropdown-toggle{{ $activeClass }}" href="#" data-bs-toggle="dropdown" aria-expanded="false">
