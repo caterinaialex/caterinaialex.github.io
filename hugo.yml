@@ -7,7 +7,7 @@ languages:
     languageCode: ca
     languageDirection: ltr
     languageName: Català
-    title: Caterina i Alex
+    title: Caterina i Álex
     weight: 1
   en:
     disabled: false
