@@ -1,0 +1,33 @@
+header {
+    background: #fff;
+
+    h1 {
+        margin: 0;
+        font-size: 1.2em;
+    }
+
+    .navbar-main .nav-link {
+        margin: 0.4rem 0.8rem;
+        padding: 0 0.1rem !important;
+        border-bottom: solid 1px transparent;
+
+        @include media-breakpoint-down(lg) {
+            margin-left: 0;
+            margin-right: 0;
+        }
+
+        &.active {
+            color: $primary-color;
+            border-bottom-color: $primary-color;
+        }
+    }
+
+    .navbar-language .nav-item.muted {
+        filter: grayscale(1);
+    }
+
+    .navbar-toggler {
+        padding: 0;
+        border: none;
+    }
+}
