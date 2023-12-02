@@ -1,1 +1,43 @@
-<!-- // TODO: header -->
+<header>
+    <nav class="navbar navbar-expand-lg border-bottom">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="{{ relLangURL `/` }}">{{ .Site.Title }}</a>
+            <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbar">
+                <!-- Main menu -->
+                {{ with .Site.Menus.main }}
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        {{ range . }}
+                            <li class="nav-item">
+                                {{ if $.IsMenuCurrent .Menu . }}
+                                    <a class="nav-link active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+                                {{ else }}
+                                    <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                                {{ end }}
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+
+                <!-- Language selector -->
+                {{ $siteLang := .Site.Language.LanguageCode }}
+                {{ with .AllTranslations }}
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        {{ range . }}
+                            {{ $flagPath := print "images/flag-" .Language.LanguageCode ".png" }}
+                            {{ $itemClasses := cond (eq $siteLang .Language.LanguageCode) "" " muted" }}
+                            <li class="nav-item{{ $itemClasses }}">
+                                <a class="nav-link" href="{{ .RelPermalink }}">
+                                    <img width="24" src="{{ (resources.Get $flagPath).RelPermalink }}">
+                                    <span class="d-lg-none">{{ .Language.LanguageName }}</span>
+                                </a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            </div>
+        </div>
+    </nav>
+</header>

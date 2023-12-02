@@ -1,0 +1,9 @@
+// Common
+.container-fluid {
+    max-width: 1000px;
+}
+
+// Navbar
+header .nav-item.muted {
+    filter: grayscale(1);
+}

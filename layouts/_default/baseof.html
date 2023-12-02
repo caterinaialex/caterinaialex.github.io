@@ -6,11 +6,9 @@
     <meta name="robots" content="noindex,nofollow">
 
     <!-- Page Title -->
-    {{ $title := print .Title " | " .Site.Title  }}
-    {{ if .IsHome }}
-        {{ $title = .Site.Title }}
-    {{ else if eq .Page.RelPermalink "/404.html" }}
-        {{ $title = print "Page Not Found | " .Site.Title }}
+    {{ $title := .Site.Title }}
+    {{ if .Title }}
+        {{ $title = print .Title " | " $title }}
     {{ end }}
     <title>{{ $title }}</title>
 
@@ -30,5 +28,10 @@
 
     <!-- Footer -->
     {{ partial "footer.html" . }}
+
+    <!-- JavaScript -->
+    {{ with resources.Get "app.js" | js.Build | fingerprint }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" defer></script>
+    {{ end }}
 </body>
 </html>
