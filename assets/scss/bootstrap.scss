@@ -1,8 +1,11 @@
 // Custom Bootstap theme
-$font-family-sans-serif: $font-family-body;
-$font-family-monospace: $font-family-heading;
-$body-color: $foreground-color;
-$body-bg: $background-color;
+$font-family-sans-serif: $regular-font-family;
+$font-weight-base: $regular-font-weight;
+$headings-font-family: $heading-font-family;
+$headings-font-weight: $heading-font-weight;
+$text-color: $foreground-color;
+$primary: $primary-color;
+$secondary: $accent-color;
 
 // Import Bootstrap modules
 @import "../../vendor/bootstrap/scss/bootstrap";

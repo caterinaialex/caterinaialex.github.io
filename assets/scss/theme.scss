@@ -1,6 +1,11 @@
-$font-family-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$font-family-heading: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$foreground-color: #000;
-$foreground-color-lighter: lighten($foreground-color, 10%);
-$background-color: #fff;
-$accent-color: #0f0;
+$regular-font-family: 'Jost', sans-serif;
+$regular-font-weight: 400;
+$regular-font-weight-bold: 700;
+
+$heading-font-family: 'Hedvig Letters Serif', serif;
+$heading-font-weight: 400;
+
+$foreground-color: #091225;
+$background-color: #f5fbf4;
+$primary-color: #214ba6;
+$accent-color: #3be92b;

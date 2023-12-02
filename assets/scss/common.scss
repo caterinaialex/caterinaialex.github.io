@@ -1,9 +1,40 @@
 // Common
+body {
+    background: $background-color;
+}
+
 .container-fluid {
     max-width: 1000px;
 }
 
 // Navbar
-header .nav-item.muted {
-    filter: grayscale(1);
+header {
+    background: #fff;
+
+    h1 {
+        margin: 0;
+        font-size: 1.2em;
+    }
+
+    .navbar-main .nav-link {
+        margin-top: 0.4rem;
+        margin-bottom: 0.4rem;
+        padding-top: 0.1rem;
+        padding-bottom: 0.1rem;
+        border-bottom: solid 1px transparent;
+
+        &.active {
+            color: $primary-color;
+            border-bottom-color: $primary-color;
+        }
+    }
+
+    .navbar-language .nav-item.muted {
+        filter: grayscale(1);
+    }
+
+    .navbar-toggler {
+        padding: 0;
+        border: none;
+    }
 }

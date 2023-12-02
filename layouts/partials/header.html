@@ -1,14 +1,14 @@
 <header>
     <nav class="navbar navbar-expand-lg border-bottom">
         <div class="container-fluid">
-            <a class="navbar-brand" href="{{ relLangURL `/` }}">{{ .Site.Title }}</a>
+            <a class="navbar-brand" href="{{ relLangURL `/` }}"><h1>{{ .Site.Title }}</h1></a>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="navbar-collapse collapse" id="navbar">
                 <!-- Main menu -->
                 {{ with .Site.Menus.main }}
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <ul class="navbar-main navbar-nav me-auto mb-2 mb-lg-0">
                         {{ range . }}
                             {{ $item := . }}
                             {{ with .Children }}
@@ -49,7 +49,7 @@
                 {{ with .Site.Menus.featured }}
                     <div class="my-2 my-lg-0 mx-lg-3">
                         {{ range . }}
-                            <a href="{{ .URL }}" class="btn btn-sm btn-outline-primary">{{ .Name }}</a>
+                            <a href="{{ .URL }}" class="btn btn-sm btn-secondary">{{ .Name }}</a>
                         {{ end }}
                     </div>
                 {{ end }}
@@ -57,13 +57,13 @@
                 <!-- Language selector -->
                 {{ $siteLang := .Site.Language.LanguageCode }}
                 {{ with .AllTranslations }}
-                    <ul class="navbar-nav">
+                    <ul class="navbar-language navbar-nav">
                         {{ range . }}
                             {{ $flagPath := print "images/flag-" .Language.LanguageCode ".png" }}
                             {{ $itemClasses := cond (eq $siteLang .Language.LanguageCode) "" " muted" }}
                             <li class="d-inline-flex nav-item{{ $itemClasses }}">
                                 <a class="nav-link p-1" href="{{ .RelPermalink }}">
-                                    <img width="24" src="{{ (resources.Get $flagPath).RelPermalink }}">
+                                    <img class="rounded-1" width="24" src="{{ (resources.Get $flagPath).RelPermalink }}">
                                     <small class="d-lg-none">{{ .Language.LanguageName }}</small>
                                 </a>
                             </li>

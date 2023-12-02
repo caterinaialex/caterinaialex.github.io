@@ -13,6 +13,7 @@
     <title>{{ $title }}</title>
 
     <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif&family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap">
     {{ with resources.Get "app.scss" | toCSS | minify | fingerprint }}
         <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{ end }}
