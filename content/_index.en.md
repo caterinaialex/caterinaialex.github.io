@@ -1,6 +1,6 @@
 ---
 weight: 1
-layout: single
+layout: home
 menu:
     main:
         name: Home

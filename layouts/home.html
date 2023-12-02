@@ -1,0 +1,8 @@
+{{ define "main" }}
+    <div class="landing">
+        <img src="{{ (resources.Get `images/landing.jpg`).RelPermalink }}">
+    </div>
+    <div class="container-fluid">
+        {{ .Content }}
+    </div>
+{{ end }}
