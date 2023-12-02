@@ -1,10 +1,9 @@
 ---
-menu: main
-layout: default
+weight: 1
+layout: single
 menu:
     main:
         name: Inici
-        weight: 1
 ---
 
 This is the Home Page (CA).

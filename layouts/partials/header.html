@@ -10,28 +10,61 @@
                 {{ with .Site.Menus.main }}
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         {{ range . }}
-                            <li class="nav-item">
-                                {{ if $.IsMenuCurrent .Menu . }}
-                                    <a class="nav-link active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
-                                {{ else }}
-                                    <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-                                {{ end }}
-                            </li>
+                            {{ $item := . }}
+                            {{ with .Children }}
+                                <li class="nav-item dropdown">
+                                    {{ $activeClass := "" }}
+                                    {{ if $.HasMenuCurrent $item.Menu $item }}
+                                        {{ $activeClass = " active" }}
+                                    {{ end }}
+                                    <a class="nav-link dropdown-toggle{{ $activeClass }}" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                        {{ $item.Name }}
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        {{ range . }}
+                                            <li>
+                                                {{ if $.IsMenuCurrent .Menu . }}
+                                                    <a class="dropdown-item active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+                                                {{ else }}
+                                                    <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                                                {{ end }}
+                                            </li>
+                                        {{ end }}
+                                    </ul>
+                                </li>
+                            {{ else }}
+                                <li class="nav-item">
+                                    {{ if $.IsMenuCurrent .Menu . }}
+                                        <a class="nav-link active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+                                    {{ else }}
+                                        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                                    {{ end }}
+                                </li>
+                            {{ end }}
                         {{ end }}
                     </ul>
+                {{ end }}
+
+                <!-- Featured menu -->
+                {{ with .Site.Menus.featured }}
+                    <div class="my-2 my-lg-0 mx-lg-3">
+                        {{ range . }}
+                            <a href="{{ .URL }}" class="btn btn-sm btn-outline-primary">{{ .Name }}</a>
+                        {{ end }}
+                    </div>
                 {{ end }}
 
                 <!-- Language selector -->
                 {{ $siteLang := .Site.Language.LanguageCode }}
                 {{ with .AllTranslations }}
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <ul class="navbar-nav">
                         {{ range . }}
                             {{ $flagPath := print "images/flag-" .Language.LanguageCode ".png" }}
                             {{ $itemClasses := cond (eq $siteLang .Language.LanguageCode) "" " muted" }}
-                            <li class="nav-item{{ $itemClasses }}">
-                                <a class="nav-link" href="{{ .RelPermalink }}">
+                            <li class="d-inline-flex nav-item{{ $itemClasses }}">
+                                <a class="nav-link p-1" href="{{ .RelPermalink }}">
                                     <img width="24" src="{{ (resources.Get $flagPath).RelPermalink }}">
-                                    <span class="d-lg-none">{{ .Language.LanguageName }}</span>
+                                    <small class="d-lg-none">{{ .Language.LanguageName }}</small>
                                 </a>
                             </li>
                         {{ end }}

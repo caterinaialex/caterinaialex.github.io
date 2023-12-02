@@ -1,0 +1,12 @@
+{{ define "main" }}
+    <div class="container-fluid">
+        <h1>{{ .Title }}</h1>
+        <ul>
+            {{ range .Pages.ByWeight }}
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    </div>
+{{ end }}

@@ -1,10 +1,7 @@
 ---
 title: Contact
-slug: contact
-layout: default
-menu:
-    main:
-        weight: 4
+menu: main
+weight: 80
 ---
 
 This is the Contact Page (EN).
