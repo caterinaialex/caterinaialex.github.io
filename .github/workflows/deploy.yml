@@ -1,0 +1,33 @@
+name: Deploy
+
+on: [push]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Download code from repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      # Setup Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+
+      # Build
+      - name: Build
+        run: hugo
+
+      # Deploy
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ success() && (github.ref == 'refs/heads/main') }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
