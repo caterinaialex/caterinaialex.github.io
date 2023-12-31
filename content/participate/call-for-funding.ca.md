@@ -2,7 +2,7 @@
 title: Convocatòria de Finançament
 menu:
     main:
-        parent: Participate
+        parent: Participa
 weight: 23
 ---
 

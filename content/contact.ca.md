@@ -13,7 +13,7 @@ No dubteu a contactar-nos via correu electrònic per a qualsevol consulta o ajud
 
 **Correu electrònic**: [catexfg@gmail.com](mailto:catexfg@gmail.com)
 
-Farem el possible per respondre tan ràpid com puguem. La vostra presència i benestar són molt importants per a nosaltres, i estam desitjant celebrar el nostre dia especial amb vosaltres!
+Farem el possible per respondre tan ràpid com poguem!
 
 ---
 

@@ -2,7 +2,7 @@
 title: Convocatòria de música
 menu:
     main:
-        parent: Participate
+        parent: Participa
 weight: 22
 ---
 
