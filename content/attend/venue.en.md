@@ -26,6 +26,16 @@ Close to Sa Ràpita is the famous "Es Trenc" beach, known for its crystal-clear 
 
 We are so excited to have our wedding in this gorgeous location and share the beauty of Sa Ràpita and its surroundings with you.
 
+### Transport
+
+Details on how to get to the ceremony location. Public transport in Mallorca is terrible, so there's only one bus that goes to Sa Ràpita from Palma:
+
+https://www.tib.org/es/lineas-y-horarios/autobus/-/linia/508
+
+And another one that goes from Campos (neighboring town, maybe cheaper for accommodation):
+
+https://www.tib.org/es/lineas-y-horarios/autobus/-/linia/518d
+
 ---
 
 Looking forward to seeing you at "Club Nàutic Sa Ràpita"!
