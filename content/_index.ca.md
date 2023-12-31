@@ -23,11 +23,29 @@ Benvinguts al nostre lloc web de boda!
 
 ### Allotjament
 
-Informació sobre hotels o llocs per allotjar-se a prop del lloc de la cerimònia.
+Per a la comoditat dels nostres convidats (sobretot dels **madrileños**), hem recopilat informació sobre allotjaments a la zona de la cerimònia. Aquí teniu opcions:
+
+
+1. Llogar cases entre uns quants per Sa Ràpita, aquí un exemple:
+
+**`<div class="airbnb-embed-frame" data-id="48604404" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;">`**
+**`<a href="https://www.airbnb.es/rooms/48604404?check_in=2024-09-04&amp;check_out=2024-09-08&amp;guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">`**Ver en Airbnb** `</a>`**
+**`<a href="https://www.airbnb.es/rooms/48604404?check_in=2024-09-04&amp;check_out=2024-09-08&amp;guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">`**Vivienda · Sa Ràpita · ★4,62 · 3 dormitorios · 4 camas · 2 baños** `</a>`**
+**`<script async="" src="https://www.airbnb.es/embeddable/airbnb_jssdk">`**`</script>`
+**`</div>`**
+
+
+2. Llogar cases entre uns quants per s'Estanyol
+
+`<div class="airbnb-embed-frame" data-id="12384225" data-view="home" data-hide-price="true" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.es/rooms/12384225?check_in=2024-09-04&check_out=2024-09-08&guests=1&adults=1&s=66&source=embed_widget">`Ver en Airbnb`</a><a href="https://www.airbnb.es/rooms/12384225?check_in=2024-09-04&check_out=2024-09-08&guests=1&adults=1&s=66&source=embed_widget" rel="nofollow">`Adosado · Illes Balears · ★4,81 · 3 dormitorios · 7 camas · 2 baños`</a><script async="" src="https://www.airbnb.es/embeddable/airbnb_jssdk">``</script></div>`
+
 
 ### Transport
 
-Detalls sobre com arribar al lloc de la cerimònia i la recepció.
+Detalls sobre com arribar al lloc de la cerimònia. El transport públic a Mallorca és una merda, però dins aquesta merda s'únic bus que va cap a Sa Ràpita es el 508:
+
+https://www.tib.org/es/lineas-y-horarios/autobus/-/linia/508
+
 
 ## RSVP
 
