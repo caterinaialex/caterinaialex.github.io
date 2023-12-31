@@ -3,21 +3,20 @@ title: Contacte
 menu: main
 weight: 80
 ---
+# Contacta amb nosaltres
 
-# Contact Us
+Si teniu qualsevol dubte o necessiteu més informació sobre la nostra boda, no dubteu a posar-vos en contacte amb nosaltres.
 
-If you have any questions or need further information about our wedding, please don't hesitate to get in touch with us. We're here to help make this experience as smooth and enjoyable as possible for all our guests.
+## Posau-vos en contacte
 
-## Get in Touch
+No dubteu a contactar-nos via correu electrònic per a qualsevol consulta o ajuda que pugueu necessitar respecte a la boda. Tant si és sobre el lloc, allotjament, arribada, o qualsevol altre aspecte del nostre dia especial, estam més que contents d'oferir-vos la informació necessària.
 
-Feel free to reach out to us via email for any inquiries or assistance you might need regarding the wedding. Whether it's about the venue, accommodations, travel arrangements, or any other aspect of our special day, we're more than happy to provide you with the necessary information.
+**Correu electrònic**: [catexfg@gmail.com](mailto:catexfg@gmail.com)
 
-**Email**: [catexfg@gmail.com](mailto:catexfg@gmail.com)
-
-We'll do our best to respond as quickly as possible. Your presence and well-being are very important to us, and we look forward to celebrating our special day with you!
+Farem el possible per respondre tan ràpid com puguem. La vostra presència i benestar són molt importants per a nosaltres, i estam desitjant celebrar el nostre dia especial amb vosaltres!
 
 ---
 
-Warm regards,
+Una abraçada,
 
-Àlex and Caterina
+Àlex i Caterina
