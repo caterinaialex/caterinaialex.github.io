@@ -15,10 +15,10 @@ Just as groundbreaking research requires funding, so too does a once-in-a-lifeti
 ## Project Details
 
 **Project Name:** The Union of Àlex and Caterina
-**Event Date:** [Insert Wedding Date]
+**Event Date:** 07/09/2024
 **Location:** Club Nàutic Sa Ràpita, Mallorca
 
-Like many ambitious projects, our wedding aims to bring people together, create unforgettable moments, and celebrate a milestone in human experience – love and partnership.
+Like many ambitious projects, our wedding aims to bring people together, create unforgettable moments, and celebrate a milestone in human experience: love.
 
 ## Call for Fundings
 
