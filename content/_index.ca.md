@@ -42,9 +42,13 @@ Per a la comoditat dels nostres convidats (sobretot dels **madrileños**), hem r
 
 ### Transport
 
-Detalls sobre com arribar al lloc de la cerimònia. El transport públic a Mallorca és una merda, però dins aquesta merda s'únic bus que va cap a Sa Ràpita es el 508:
+Detalls sobre com arribar al lloc de la cerimònia. El transport públic a Mallorca és una merda, per tant, només hi ha un bus que va cap a Sa Ràpita desde Palma:
 
 https://www.tib.org/es/lineas-y-horarios/autobus/-/linia/508
+
+I un altre que va de Campos (poble del costat a lo millor més barato per allotjament):
+
+https://www.tib.org/es/lineas-y-horarios/autobus/-/linia/518d
 
 
 ## RSVP
