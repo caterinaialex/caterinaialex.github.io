@@ -4,9 +4,9 @@ menu: featured
 weight: 90
 ---
 
-# Register for the Wedding of Àlex & Caterina
+# Register for the Wedding of Caterina & Àlex
 
-Welcome to the registration page for our special day! Just like attendees register for a conference, we invite our guests to officially register for our wedding celebration. Please provide your details to help us make necessary arrangements and ensure a memorable experience for everyone.
+Welcome to the registration page for our special day! We invite our guests to officially register for our wedding celebration. Please provide your details to help us make necessary arrangements and ensure a memorable experience for everyone.
 
 ## Registration Details
 
@@ -18,17 +18,7 @@ To register, please fill out the following Google Form with your details. This w
 
 - **Registration Deadline:** Please register by [Insert Deadline Date] to confirm your attendance.
 - **Special Requests:** If you have any dietary restrictions, accessibility needs, or other special requests, please mention them in the form.
-- **Confirmation:** After registering, you will receive a confirmation email with further details about the event.
 
-## Why Register?
-
-Registering for our wedding is more than just a formality. It is an integral part of the event planning process that ensures:
-
-- Accurate headcount for catering and venue setup.
-- Personalized arrangements to cater to your needs.
-- Smooth and enjoyable experience for all attendees.
-
-We are thrilled to have you as part of our celebration and look forward to creating unforgettable memories together.
 
 ---
 
