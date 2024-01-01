@@ -10,7 +10,7 @@ weight: 23
 
 ## Visió General
 
-Igual com la recerca innovadora requereix finançament, també ho fa una celebració d'amor única en la vida. Estam emocionats d'anunciar una oportunitat única per contribuir a un esdeveniment transcendental en les nostres vides: la nostra boda.
+Estam emocionats d'anunciar una oportunitat única per contribuir a un esdeveniment transcendental en les nostres vides: la nostra boda.
 
 ## Detalls del Projecte
 
