@@ -6,7 +6,7 @@ menu:
 weight: 23
 ---
 
-# Call for Fundings: Àlex & Caterina's Wedding
+# Call for Funding
 
 ## Overview
 
@@ -14,8 +14,8 @@ Just as groundbreaking research requires funding, so too does a once-in-a-lifeti
 
 ## Project Details
 
-**Project Name:** The Union of Àlex and Caterina
-**Event Date:** 07/09/2024
+**Project Name:** The Union of Àlex and Caterina\
+**Event Date:** 07/09/2024\
 **Location:** Club Nàutic Sa Ràpita, Mallorca
 
 Like many ambitious projects, our wedding aims to bring people together, create unforgettable moments, and celebrate a milestone in human experience: love.
@@ -28,13 +28,13 @@ We invite friends, family, and well-wishers to contribute to our celebration. Yo
 
 Contributions can be made to our dedicated wedding bank account. Details are as follows:
 
-**Bank Account Number:** [Insert Account Number]
-**Bank Name:** [Insert Bank Name]
-**Account Holders:** Àlex & Caterina
-**SWIFT/BIC:** [Insert SWIFT/BIC]
+**Bank Account Number:** [Insert Account Number]\
+**Bank Name:** [Insert Bank Name]\
+**Account Holders:** Àlex & Caterina\
+**SWIFT/BIC:** [Insert SWIFT/BIC]\
 **IBAN:** [Insert IBAN]
 
-### Allocation of Funds
+## Allocation of Funds
 
 All contributions will be used to enhance the wedding experience for all our guests and to kickstart our journey as a married couple. This includes:
 

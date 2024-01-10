@@ -23,6 +23,12 @@ disableKinds:
   - sitemap
   - taxonomy
 
+# Allow HTML in markdown files
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Minification
 minify:
   minifyOutput: true

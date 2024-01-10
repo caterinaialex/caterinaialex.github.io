@@ -14,22 +14,22 @@ Estam emocionats d'anunciar una oportunitat única per contribuir a un esdevenim
 
 ## Detalls del Projecte
 
-**Nom del Projecte:** Les noces de na Caterina i n'Àlex
-**Data de l'Esdeveniment:** 07/09/2024
+**Nom del Projecte:** Les noces de na Caterina i n'Àlex\
+**Data de l'Esdeveniment:** 07/09/2024\
 **Ubicació:** Club Nàutic Sa Ràpita, Mallorca
 
 ## Convocatòria de Finançament
 
 Convidam amics, familiars i benvolguts a contribuir a la nostra celebració.
 
-### Com contribuir
+## Com contribuir
 
 Les contribucions es poden fer al nostre compte bancari dedicat a la boda. Els detalls són els següents:
 
-**Número de Compte Bancari:** [Inserir Número de Compte]
-**Nom del Banc:** [Inserir Nom del Banc]
-**Titulars del Compte:** Àlex & Caterina
-**SWIFT/BIC:** [Inserir SWIFT/BIC]
+**Número de Compte Bancari:** [Inserir Número de Compte]\
+**Nom del Banc:** [Inserir Nom del Banc]\
+**Titulars del Compte:** Àlex & Caterina\
+**SWIFT/BIC:** [Inserir SWIFT/BIC]\
 **IBAN:** [Inserir IBAN]
 
 ## Agraïments
