@@ -18,7 +18,7 @@ Just as academic conferences invite contributions from scholars, we are inviting
 
 We are looking for song suggestions that will set the perfect mood for our conference — be it romantic ballads, upbeat dance numbers, or timeless classics. To contribute, simply follow these steps:
 
-1. **Access the Playlist:** Visit our Spotify playlist link: https://open.spotify.com/playlist/5PmHQtsDzoHJsGqdHhhbgu
+1. **Access the Playlist:** Visit our Spotify playlist link: https://open.spotify.com/playlist/5PmHQtsDzoHJsGqdHhhbgu?si=459bddf40d1e4c5c&pt=6fcd84cfd78c7eba059238684b5db13a
 2. **Add Your Song(s):** Feel free to add the songs that you think will enhance our wedding celebration.
 3. **Moderation:** We will review all submissions and select the songs that best fit the atmosphere of our wedding.
 
