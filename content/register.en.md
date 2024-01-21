@@ -12,7 +12,7 @@ Welcome to the registration page for conference. We invite you to officially reg
 
 To register, please fill out the following Google Form with your details. This will help us in planning and organizing the event, including seating arrangements, meal preferences, and any special accommodations you might require.
 
-**Google Form Link:** [Register for the Wedding](https://your-google-form-link)
+**Google Form Link:** [Register for the Wedding](https://forms.gle/QaGW1qLedo6MoBry5)
 
 ## Important Information
 
