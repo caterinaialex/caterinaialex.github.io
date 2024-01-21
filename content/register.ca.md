@@ -11,7 +11,7 @@ Benvinguts a la pàgina d'inscripció per al nostre dia especial! Vos convidam a
 
 Per confirmar la assistència, per favor ompliu el següent Formulari de Google amb les vostres dades. Això ens ajudarà en la planificació i organització de l'esdeveniment, incloent els arranjaments de seients, preferències de menjar, i qualsevol allotjament especial que pugueu necessitar.
 
-**Enllaç al Formulari de Google:** [Inscriure's a la Boda](https://your-google-form-link)
+**Enllaç al Formulari de Google:** [Inscriure's a la Boda](https://forms.gle/5SGNd21y7UL3oKVc7)
 
 ## Informació Important
 
