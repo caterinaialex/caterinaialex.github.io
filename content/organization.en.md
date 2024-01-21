@@ -25,7 +25,7 @@ José Miguel Moreno is a software developer with expertise in enterprise softwar
 
 ## Francina Fuster-Barceló
 
-Francina Fuster-Barceló, Market Manager MEAPAC at Hotelbeds since July 2022, excels in managing a portfolio of hotels across Asia and Africa, focusing on competitive market rates and availability. Her varied roles at Hotelbeds include Yield Manager and Customer Service, showcasing her skills in CRM, B2B relations, and strategic account development. Francina's career highlights her adaptability and expertise in the hospitality industry.
+Francina Fuster-Barceló, Market Manager MEAPAC at Hotelbeds since July 2022, excels in managing a portfolio of hotels across Asia and Africa, focusing on competitive market rates and availability. Her varied roles at Hotelbeds include Yield Manager and Customer Service, showcasing her skills in CRM, B2B relations and strategic account development. Francina's career highlights her adaptability and expertise in the hospitality industry.
 
 ---
 
