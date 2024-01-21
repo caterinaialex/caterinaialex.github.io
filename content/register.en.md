@@ -4,9 +4,9 @@ menu: featured
 weight: 90
 ---
 
-# Register for the Wedding of Caterina & Àlex
+# Register for CATEX    
 
-Welcome to the registration page for our special day! We invite our guests to officially register for our wedding celebration. Please provide your details to help us make necessary arrangements and ensure a memorable experience for everyone.
+Welcome to the registration page for conference. We invite you to officially register for CATEX. Please provide your details to help us make necessary arrangements and ensure a memorable experience for everyone.
 
 ## Registration Details
 
@@ -16,7 +16,7 @@ To register, please fill out the following Google Form with your details. This w
 
 ## Important Information
 
-- **Registration Deadline:** Please register by [Insert Deadline Date] to confirm your attendance.
+- **Registration Deadline:** Please register by 1st of August 2024 to confirm your attendance. Even though, the sooner, the better.
 - **Special Requests:** If you have any dietary restrictions, accessibility needs, or other special requests, please mention them in the form.
 
 

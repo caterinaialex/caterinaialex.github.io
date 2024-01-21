@@ -6,4 +6,4 @@ menu:
 weight: 13
 ---
 
-This is the What to Visit Page (EN).
+More details will follow.

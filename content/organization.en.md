@@ -6,27 +6,26 @@ weight: 30
 
 # Organization
 
-Welcome to the organization team behind the special day of Àlex and Caterina. Just like an editorial board shapes the vision of a journal, our team is crafting an unforgettable wedding experience.
+Welcome to the organization team behind CATEX. Let's meet the people that is making this conference possible.
 
-## The Bride: Caterina
+## Caterina Fuster-Barceló
 
 <img class="profile" src="/images/profile-cat.jpg" alt="Caterina">
-Caterina, our meticulous and detail-oriented bride, is an engineer known for her compulsive organization and precision. Her ability to plan, organize, and execute every detail with perfection brings a unique level of excellence to our wedding preparations.
+Caterina, a Postdoctoral researcher at Universidad Carlos III de Madrid (UC3M) in the BSEL group, specializes in bioimage analysis and bioengineering. Her work delves into the application of deep learning techniques in understanding complex biological processes. Caterina is actively contributing to the Horizon Europe-funded AI4Life project, where she seeks to push the boundaries of artificial intelligence in the field of life sciences.
 
-## The Groom: Àlex
+## Alejandro Guerrero-López
 
 <img class="profile" src="/images/profile-alex.jpg" alt="Àlex">
-Àlex, the dynamic groom, also an engineer, is known for his ability to achieve great things under pressure. Often working best on the last available day, his spontaneous and resourceful approach brings a thrilling and exciting element to the wedding planning process.
+Alejandro Guerrero-López is a postdoctoral researcher at the Universidad Politécnica de Madrid, focusing on Bayesian Machine Learning, particularly in biomedical applications. His research interests include eXplainable AI and developing probabilistic models to address biomedical challenges. He has significant experience in clinical microbiology and has contributed to various publications in the field.
 
-## Web Technician: Josemi
+## José Miguel Moreno López
 
 <img class="profile" src="/images/profile-josemi.png" alt="Josemi">
-Josemi, a close friend and tech wizard, is the mastermind behind this beautiful website. Their expertise in digital solutions has been invaluable in bringing our wedding into the digital age.
+José Miguel Moreno is a software developer with expertise in enterprise software, mobile apps, and innovative designs. His portfolio showcases a variety of projects, including Tooter, eInvoicing, Facturae-PHP, Yamipa, Plagpatrol, and several websites like Facturae Web, Camerchecker, IOTA Web Wallet, and Bibliozambrano. Additionally, he has authored blog articles on topics like COVID-19 contact tracing, analysis of European contact tracing apps, plagiarism in universities, cryptocurrency development, internet user tracking, and business integration in FACeB2B.
 
-## Maid of Honor: Francina (Sister of the Bride)
+## Francina Fuster-Barceló
 
-Francina, Caterina's sister and confidante, is the maid of honor. Her unwavering support and insights have been pivotal in bringing this celebration to life. Always ready for a tequila shot when needed.
+Francina Fuster-Barceló, Market Manager MEAPAC at Hotelbeds since July 2022, excels in managing a portfolio of hotels across Asia and Africa, focusing on competitive market rates and availability. Her varied roles at Hotelbeds include Yield Manager and Customer Service, showcasing her skills in CRM, B2B relations, and strategic account development. Francina's career highlights her adaptability and expertise in the hospitality industry.
 
 ---
 
-Together, this team is dedicated to creating a day that not only celebrates the love between Àlex and Caterina but also shares this joy with all who attend.

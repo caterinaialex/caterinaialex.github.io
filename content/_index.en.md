@@ -7,28 +7,20 @@ menu:
 ---
 # Conference of Artificial Technologies with EXplainability (CATEX)
 
-Welcome to **Cat**erina i Àl**ex'** wedding website!
+## About CATEX
+Welcome to the Conference of Artificial Technologies with Explainability (CATEX) 2024! Join us for a day filled with insightful discussions, keynote presentations, and workshops on the latest trends in artificial intelligence and explainability.
 
-## Ceremony
+CATEX aims to bring together experts, researchers, and enthusiasts from around the world to explore cutting-edge developments in the field of AI and delve into the importance of explainable AI models.
 
-- **Location**: Club Nàutic Sa Ràpita
-- **Date**: 07/09/2024
-- **Time**: 12:00 (To be confirmed.)
-
-<iframe class="iframe-gmaps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3668.3482968920375!2d2.9530722812768273!3d39.36300868341456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297a8aaf3728019%3A0x43525c38acc36a72!2sClub%20N%C3%A0utic%20Sa%20R%C3%A0pita!5e0!3m2!1ses!2ses!4v1704023288374!5m2!1ses!2ses" allowfullscreen loading="lazy"></iframe>
 
 ## RSVP
 
-As our big day approaches, we're getting more stressed. To help us plan the event better and relieve us of headaches, please confirm **your** attendance and share any dietary restrictions or special needs you may have.
+Registration
+To secure your spot at CATEX 2024, please register using the link below. Early registration ensures you won't miss out on any of our exciting sessions and networking opportunities.
 
-To do this, please visit the following Google Forms: [https://caterinaialex.github.io/en/register/](https://caterinaialex.github.io/en/register/).
+[Register Now](https://caterinaialex.github.io/en/register/).
 
-## Contact
+## Contact Us
 
-Contact information for any questions.
-
----
-
-Thank you for being part of our special day!
-
-Àlex and Caterina
+If you have any questions or need further assistance, please don't hesitate to reach out to us:
+* Email: [catexfg@gmail.com](mailto:catexfg@gmail.com)
