@@ -18,7 +18,7 @@ Convidam a les nostres estimades visites a contribuir a la nostra llista de repr
 
 Per contribuir, simplement seguiu aquests passos:
 
-1. **Accediu a la llista:** Visiteu l'enllaç de la nostra llista de reproducció de Spotify: https://open.spotify.com/playlist/5PmHQtsDzoHJsGqdHhhbgu?si=459bddf40d1e4c5c&pt=6fcd84cfd78c7eba059238684b5db13a
+1. **Accediu a la llista:** Visiteu l'enllaç de la nostra llista de reproducció de Spotify: https://open.spotify.com/playlist/5PmHQtsDzoHJsGqdHhhbgu?si=c9543f6424814a9a
 2. **Afegiu les vostres cançons:** No dubteu a afegir qualsevol cançó.
 3. **Moderació:** Revisarem la llista i seleccionarem les cançons que millor s'ajustin a nosaltres.
 
