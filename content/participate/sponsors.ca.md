@@ -1,8 +1,8 @@
 ---
 title: Patrocinis
 menu:
-main:
-parent: Participa
+    main:
+        parent: Participa
 weight: 23
 ---
 
