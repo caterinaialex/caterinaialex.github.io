@@ -243,3 +243,217 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 </div>
 
 <div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3959.jpg" class="auction-img" alt="Set of Pots">
+  <div class="auction-info">
+    <h3>🍲 Set of Cooking Pots</h3>
+    <p>Matching the trusty pans, this set of Carrefour pots has simmered, boiled, and stewed with us for 6 years. Durable, dependable, and ready for your next culinary adventure. All the flavor, none of the fuss.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3961.jpg" class="auction-img" alt="Italian Coffee Maker">
+  <div class="auction-info">
+    <h3>☕ Italian Coffee Maker (for 4)</h3>
+    <p>Classic moka pot, big enough for 4 coffee lovers. It’s a bit old, but still brews like a champ. This year it even survived ViñaRock festival with us, so you know it’s tough. Start your mornings with some rock & roll caffeine.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3962.jpg" class="auction-img" alt="Small Italian Coffee Maker">
+  <div class="auction-info">
+    <h3>☕ Tiny Italian Coffee Maker (Solo Edition)</h3>
+    <p>Single shot moka for solo mornings or emergency doses. Super old but still kicking. Perfect if you like your coffee strong and your gadgets vintage. (Garlic in the photo is for scale only and not included — unless you need it.)</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3963.jpg" class="auction-img" alt="Big Soup Pot">
+  <div class="auction-info">
+    <h3>🍲 The Legendary Soup Pot</h3>
+    <p>Every epic soup started here. This big pot has hosted endless stews, broths, and winter comforts. Still perfect for batch cooking, feeding friends, or simmering away on a lazy Sunday. Add your own flavor to its story!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3964.jpg" class="auction-img" alt="Set of Plastic Tuppers #1">
+  <div class="auction-info">
+    <h3>🧊 Set of Plastic Tuppers #1</h3>
+    <p>The ultimate solution for leftovers, meal prep, or hoarding take-away rice. This is the first of two big sets — perfect for freezing, storing, and always having something ready in the fridge. Stackable, sturdy, and ready for action.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3965.jpg" class="auction-img" alt="Set of Plastic Tuppers #2">
+  <div class="auction-info">
+    <h3>🧊 Set of Plastic Tuppers #2</h3>
+    <p>Yep, another big set! There were just too many to keep for one person, so here’s your chance to snag the second batch. Ideal for freezing, food prepping, or building your own tupperware tower. May your leftovers never go homeless.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3966.jpg" class="auction-img" alt="IKEA Dishes Set">
+  <div class="auction-info">
+    <h3>🍽️ IKEA Dishes Set</h3>
+    <p>The classic, cheapest IKEA dishes — each one is 50 centimos in the store, but you get the whole lot for just 1€. Sure, you could buy them new… but these come packed with memories (and probably a few mystery chips). Perfect for students, new kitchens, or anyone sentimental about our leftovers.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3967.jpg" class="auction-img" alt="IKEA Bowls Set">
+  <div class="auction-info">
+    <h3>🥣 IKEA Bowls Set</h3>
+    <p>The sibling set to the IKEA dishes — a stack of classic, no-nonsense bowls, perfect for cereal, soup, or endless ramen nights. In IKEA, they’re cheap, but with us, you get the whole lot (with memories and maybe a noodle or two) for just 1€. Taste the nostalgia.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3968.jpg" class="auction-img" alt="IKEA Bowls Set #2">
+  <div class="auction-info">
+    <h3>🥣 IKEA Bowls Set #2</h3>
+    <p>Because one set of bowls is never enough, here’s another batch from IKEA! Perfect for big families, serial snackers, or anyone who loves never running out of clean dishes. Cheap, simple, and ready for more adventures (and midnight snacks).</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3969.jpg" class="auction-img" alt="Cute Instagram Dishes">
+  <div class="auction-info">
+    <h3>📸 C4tchen Instagram Dishes</h3>
+    <p>The real MVPs of Caterina’s foodie Instagram, C4tchen! These cute dishes have made meals look mouthwatering for way too many posts. Now you can channel your inner influencer — or just make dinner look extra special. Insta-fame not included, but we’ll throw in some good vibes.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3970.jpg" class="auction-img" alt="Cute Dishes Set #2">
+  <div class="auction-info">
+    <h3>🍽️ Cute Dishes Set #2</h3>
+    <p>Another adorable set of dishes, perfect for anyone who wants to keep the C4tchen vibe alive (or just loves eating off something stylish). Whether you’re snapping foodie pics or serving friends, these plates bring instant charm. Second set, double the cuteness!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3971.jpg" class="auction-img" alt="Oven Baking Dishes">
+  <div class="auction-info">
+    <h3>🍲 Oven Baking Dishes</h3>
+    <p>Ready for lasagna, brownies, roasted veggies, or anything your heart (and oven) desires. These trusty baking dishes have powered many delicious meals — and now they’re ready for your next culinary masterpiece. Your kitchen called: it wants these.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3972.jpg" class="auction-img" alt="Glass and Ceramic Baking Dishes">
+  <div class="auction-info">
+    <h3>🍮 Glass & Ceramic Baking Dishes</h3>
+    <p>Upgrade your oven game with these beautiful glass and ceramic baking dishes. Perfect for casseroles, gratins, and those “I want to impress” dinners. Sturdy, elegant, and ready to make your recipes look as good as they taste.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+ç
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3973.jpg" class="auction-img" alt="Tea Containers">
+  <div class="auction-info">
+    <h3>🍵 Tea Containers (Starting at 0.50€!)</h3>
+    <p>Keep your tea (or coffee, or secret cookies) fresh in these trusty little containers. We’re starting the bidding at 50 cents because even we feel bad asking for 1€. Cute, functional, and always ready for a tea break!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3975.jpg" class="auction-img" alt="Tea Containers Set #2">
+  <div class="auction-info">
+    <h3>🍵 Tea Containers Set #2 (Starting at 0.50€!)</h3>
+    <p>Another batch of tea (or whatever) containers — because you can never have too many places to stash your leaves, snacks, or tiny secrets. Same deal: starting at just 50 cents! Your kitchen’s about to get way more organized.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3976.jpg" class="auction-img" alt="IKEA Mugs Set">
+  <div class="auction-info">
+    <h3>☕ IKEA Mugs Set (x2)</h3>
+    <p>Two of the cheapest (and, honestly, ugliest) mugs IKEA has to offer. Perfect for your office, loaning to colleagues, or surviving endless coffee breaks. No style points, but they get the job done — and for 1€, who’s judging?</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3977.jpg" class="auction-img" alt="Stolen Starbucks Mug">
+  <div class="auction-info">
+    <h3>☕ Starbucks “S” Mug (Limited Edition)</h3>
+    <p>Legendary office mug alert! After being charged 6€ for a tiny coffee, we figured the mug was included — so it mysteriously came home with us. Now you can own this rebellious piece of history. Small, classic, and perfect for espresso or a taste of revenge.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3978.jpg" class="auction-img" alt="Set of 5 Wine Glasses">
+  <div class="auction-info">
+    <h3>🍷 Set of 5 Wine Glasses</h3>
+    <p>You’re not seeing double — there are really only 5 wine glasses here. Why? Because we broke one (life happens). So if you like your numbers prime or just odd, this is the set for you. Perfect for parties where someone always leaves early anyway!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3979.jpg" class="auction-img" alt="Set of Random Glasses">
+  <div class="auction-info">
+    <h3>🥤 Set of Random Glasses</h3>
+    <p>A glorious collection of unmatched water glasses — each with its own story, none with a pair. Gathered from years of living for rent, parties, festivals, and who knows where else. Perfect for anyone who loves surprises, hates conformity, or just wants their guests to never mix up drinks.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3980.jpg" class="auction-img" alt="Big Glass Jar with Filter">
+  <div class="auction-info">
+    <h3>🫙 Big Glass Jar with Filter</h3>
+    <p>Versatile and ready for anything: use it for tea, infused water, or whatever your summer heart desires. We loved making water with fruit in it — and thanks to the built-in filter on top, you’ll get all the flavor and none of the floating toppings. Refreshment, upgraded!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3982.jpg" class="auction-img" alt="Cute SHEIN Shelf">
+  <div class="auction-info">
+    <h3>🪴 Cute SHEIN Shelf</h3>
+    <p>Adorable, affordable, and straight from SHEIN — this little shelf was home to our plant babies. Perfect for displaying plants, trinkets, or anything you want to show off in style. Instant cuteness for any corner!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
