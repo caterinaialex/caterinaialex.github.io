@@ -49,7 +49,7 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 
 ---
 
-{{< rawhtml >}}
+
 
 <div class="auction-item even">
   <img src="/assets/images_auction/object1.png" class="auction-img" alt="Object 1">
@@ -81,4 +81,4 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 
 <div class="auction-divider"></div>
 
-{{< /rawhtml >}}
+
