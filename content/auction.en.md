@@ -152,3 +152,54 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 </div>
 
 <div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/assets/images_auction/IMG_3950.jpg" class="auction-img" alt="Shoe Rack / Plant Stand">
+  <div class="auction-info">
+    <h3>🌿 The Shoe Rack That Found Itself</h3>
+    <p>Originally a humble zapatero, this piece had a glow-up and now proudly serves as a plant stand. Sturdy, minimal, and versatile — use it for shoes, plants, books, or existential reinvention. (Plants not included — they’re auctioned separately, sorry! 💸)</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/assets/images_auction/IMG_3951.jpg" class="auction-img" alt="Palo de Brasil #1">
+  <div class="auction-info">
+    <h3>🌴 Palo de Brasil #1</h3>
+    <p>Tropical vibes with zero effort. This beautiful green friend thrives on neglect — just water it when the soil feels dry: around once a week in summer and every 2–3 weeks in winter. It’s the ultimate chill plant for people who forget they own plants.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+
+<div class="auction-item even">
+  <img src="/assets/images_auction/IMG_3952.jpg" class="auction-img" alt="Syngonium (Singonio)">
+  <div class="auction-info">
+    <h3>🌿 The Mighty Singonio</h3>
+    <p>This is not just a plant — it’s a lifestyle. A tropical Syngonium that’s huge, gorgeous, and endlessly generous. Cut a leaf, stick it in water, and boom: now you have two. She’s a fast grower and might need a transplant soon. Loves frequent watering (once a week) and misting (every day if you're a good parent), but survives even if you're not. Absolute queen of the jungle vibes.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/assets/images_auction/IMG_3953.jpg" class="auction-img" alt="Palo de Brasil #2">
+  <div class="auction-info">
+    <h3>🌴 Palo de Brasil #2 (a.k.a. Survivor)</h3>
+    <p>This one’s got a story. It once looked like a lush tropical plant — then Ramiro babysat it. Now it resembles a palm tree and carries the wisdom of survival. Still thriving, still chill: water when the soil’s dry, weekly in summer, every 2–3 weeks in winter. If it made it through Ramiro, it'll make it through anything.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/assets/images_auction/IMG_3954.jpg" class="auction-img" alt="Dracaena Reflexa Angustifolia">
+  <div class="auction-info">
+    <h3>🌳 The Giant Dracaena</h3>
+    <p>The biggest plant in the house — and the one that owns the room. A <em>Dracaena reflexa angustifolia</em> that stands (almost) 1 meter tall (we didn’t measure, but trust the vibes). Needs almost no care: water only when the soil is dry. In spring it sheds a few leaves to come back stronger, like a phoenix with foliage. Total elegance, zero drama.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
