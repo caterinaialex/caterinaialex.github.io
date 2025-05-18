@@ -203,3 +203,43 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 </div>
 
 <div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3955.jpg" class="auction-img" alt="Cactus Terrarium">
+  <div class="auction-info">
+    <h3>🌵 Cactus Terrarium (Ex-Fishbowl)</h3>
+    <p>Once a home for fish, now a cozy desert for spiky friends. This converted terrarium houses a <strong>biznaga espinosa</strong> and cactus crew that demand just one thing: sun. Put it in the brightest spot you’ve got and water it max once per month (less is better!). Honestly, it thrives best when you forget it exists. Ideal for your office or a lazy-but-stylish windowsill.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3956.jpg" class="auction-img" alt="IKEA Chairs with Cushions">
+  <div class="auction-info">
+    <h3>🪑 IKEA Classic Chairs (x2)</h3>
+    <p>Two no-nonsense white IKEA chairs — minimal, reliable, and ready for any dining table or desk. Each one comes with a soft green <em>cojín</em> to keep your butt happy. Cheap and cheerful — just like us when we bought them.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3957.jpg" class="auction-img" alt="Toaster">
+  <div class="auction-info">
+    <h3>🍞 Fabulous Carrefour Toaster</h3>
+    <p>She may have been the cheapest toaster in Carrefour, but she's a legend. After the fancy Create toaster blew our electricity, this one stepped in and never failed. Crispy toast, no drama. Now yours for 1€, because legends deserve a second chapter.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3958.jpg" class="auction-img" alt="Set of 3 Frying Pans">
+  <div class="auction-info">
+    <h3>🍳 Set of 3 Frying Pans</h3>
+    <p>These Carrefour pans have been flipping, frying, and sizzling with us for 6 solid years — and they’re still going strong. Non-stick, reliable, and ready for many more tortilla nights. A true ride-or-die kitchen trio.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
