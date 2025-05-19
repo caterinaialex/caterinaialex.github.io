@@ -45,7 +45,7 @@ menu:
 
 ## 🎉 Everything Must Go! Starting at **1€**
 
-We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t take everything with us. So we're auctioning off (almost) all our belongings to our friends, starting at 1€! Check out what’s up for grabs below 👇
+We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t take everything with us. So we're auctioning off (almost) all our belongings to our friends, starting at 1€! ONLY CASH! Check out what’s up for grabs below 👇
 
 ---
 
