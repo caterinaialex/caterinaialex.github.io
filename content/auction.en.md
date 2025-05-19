@@ -457,3 +457,53 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 </div>
 
 <div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3983.jpg" class="auction-img" alt="Monstera Obliqua Plant">
+  <div class="auction-info">
+    <h3>🌱 Tiny Monstera Obliqua</h3>
+    <p>Small but seriously cute! This Monstera Obliqua brings all the trendy jungle vibes in a compact package. With its unique leaves and easy care, it’s perfect for brightening up your desk, shelf, or bedside table. Start your urban jungle — one adorable plant at a time.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3984.jpg" class="auction-img" alt="Fancy Metal Drying Rack">
+  <div class="auction-info">
+    <h3>🧺 Fancy Metal Drying Rack</h3>
+    <p>The king of laundry day! This extra-large, super-fancy metal drying rack is strong, stylish, and holds a ton of clothes. Say goodbye to flimsy plastic and hello to adulting in style. Your towels and bedsheets will thank you.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3985.jpg" class="auction-img" alt="Maranta de la Oración (Prayer Plant)">
+  <div class="auction-info">
+    <h3>🪴 Maranta de la Oración (Prayer Plant)</h3>
+    <p>This beauty is a true conversation starter — the famous “prayer plant”! Gorgeous leaves, easy to propagate, and just like the one in my lab. Give it a little light, water when dry, and watch it move its leaves in prayer at night. Science and style for your home!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item odd">
+  <img src="/images_auction/IMG_3986.jpg" class="auction-img" alt="Syngonium (Singonio) Baby">
+  <div class="auction-info">
+    <h3>🌱 Baby Singonio (Syngonium Clone)</h3>
+    <p>This is a direct descendant of the big legendary singonio — same genes, just smaller! Perfect if you want all the vibes of the mother plant but don’t have much space. Super easy to care for and ready to grow with you.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/IMG_3987.jpg" class="auction-img" alt="Propagation Station (Test Tube Style)">
+  <div class="auction-info">
+    <h3>🧪 Plant Propagation Station</h3>
+    <p>Three classic chemistry test tubes turned into the ultimate plant reproduction setup. It’s how I clone my green friends — just add cuttings and water, and watch roots appear like magic. Perfect for science lovers, plant nerds, or anyone wanting to multiply their jungle in style.</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
