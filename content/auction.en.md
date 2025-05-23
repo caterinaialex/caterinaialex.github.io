@@ -507,3 +507,30 @@ We’re leaving Madrid and heading to Switzerland 🏔️ — but we can’t tak
 </div>
 
 <div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <!-- No image available for this item -->
+  <div class="auction-info">
+    <h3>🌡️ Xiaomi Smart Kettle</h3>
+    <p>Sleek white electric kettle from Xiaomi. Boils water super fast, and you can set the exact temperature via the app for the perfect tea or coffee. No image here, but we’ll happily demo it for you in person at the auction!</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+<div class="auction-item odd">
+  <img src="/images_auction/WhatsApp Image 2025-05-23 at 10.35.19.jpeg" class="auction-img" alt="Cheese Grater">
+  <div class="auction-info">
+    <h3>🧀 IKEA Cheese Grater and 🥒 Spiralizer</h3>
+    <p>The classic IKEA cheese grater. Perfect for parmesan, cheddar, or whatever needs shredding in your kitchen. Simple, sturdy, and ready to upgrade your next plate of pasta. Also turn veggies into spaghetti! This spiralizer is perfect for making zucchini noodles, carrot ribbons, or whatever creative “fake pasta” your heart desires. .</p>
+  </div>
+</div>
+
+<div class="auction-divider"></div>
+
+<div class="auction-item even">
+  <img src="/images_auction/WhatsApp Image 2025-05-23 at 10.36.43.jpeg" class="auction-img" alt="Kitchen Scale">
+  <div class="auction-info">
+    <h3>⚖️ Kitchen Scale</h3>
+    <p>Essential for any serious cook or baking enthusiast! This kitchen scale helps you measure ingredients with precision. From our kitchen to yours.</p>
+  </div>
+</div>
